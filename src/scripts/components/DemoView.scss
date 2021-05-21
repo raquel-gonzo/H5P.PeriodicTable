@@ -1,0 +1,30 @@
+.h5p-periodic-table-demo-view {
+  display: flex;
+  flex-direction: column;
+}
+
+.h5p-periodic-table-image {
+  width: 100%;
+}
+
+.h5p-periodic-table-legend {
+  background-color: rgb(255, 255, 255);
+  margin-left: 20px;
+}
+
+.zoom-btn-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding-top: 15px;
+}
+
+.zoom-btn {
+  background-color: #541488;
+  color: white;
+  padding: 5px;
+}
+
+.periodic-element-accordion {
+  margin-top: 20px;
+}

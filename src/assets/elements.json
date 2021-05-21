@@ -1,0 +1,1066 @@
+{
+  "elements": [
+    {
+      "number": 1,
+      "symbol": "H",
+      "name": "Hydrogen",
+      "chemicalGroupBlock": "Nonmetal",
+      "standardState": "Gas",
+      "atomicMass": 1.0080,
+      "yearDiscovered": 1766
+    },
+    {
+      "number": 2,
+      "symbol": "He",
+      "name": "Helium",
+      "chemicalGroupBlock": "Noble Gas",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 3,
+      "symbol": "Li",
+      "name": "Lithium",
+      "chemicalGroupBlock": "Alkali Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 4,
+      "symbol": "Be",
+      "name": "Beryllium",
+      "chemicalGroupBlock": "Alkaline Earth Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 5,
+      "symbol": "B",
+      "name": "Boron",
+      "chemicalGroupBlock": "Metalloid",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 6,
+      "symbol": "C",
+      "name": "Carbon",
+      "chemicalGroupBlock": "Nonmetal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 7,
+      "symbol": "N",
+      "name": "Nitrogen",
+      "chemicalGroupBlock": "Nonmetal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 8,
+      "symbol": "O",
+      "name": "Oxygen",
+      "chemicalGroupBlock": "Nonmetal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 9,
+      "symbol": "F",
+      "name": "Fluorine",
+      "chemicalGroupBlock": "Halogen",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 10,
+      "symbol": "Ne",
+      "name": "Neon",
+      "chemicalGroupBlock": "Noble Gas",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 11,
+      "symbol": "Na",
+      "name": "Sodium",
+      "chemicalGroupBlock": "Alkali Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 12,
+      "symbol": "Mg",
+      "name": "Magnesium",
+      "chemicalGroupBlock": "Alkaline Earth Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 13,
+      "symbol": "Al",
+      "name": "Aluminum",
+      "chemicalGroupBlock": "Post-Transition metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 14,
+      "symbol": "Si",
+      "name": "Silicon",
+      "chemicalGroupBlock": "Metalloid",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 15,
+      "symbol": "P",
+      "name": "Phosphorus",
+      "chemicalGroupBlock": "Nonmetal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 16,
+      "symbol": "S",
+      "name": "Sulfur",
+      "chemicalGroupBlock": "Nonmetal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 17,
+      "symbol": "Cl",
+      "name": "Chlorine",
+      "chemicalGroupBlock": "Halogen",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 18,
+      "symbol": "Ar",
+      "name": "Argon",
+      "chemicalGroupBlock": "Noble Gas",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 19,
+      "symbol": "K",
+      "name": "Potassium",
+      "chemicalGroupBlock": "Alkali Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 20,
+      "symbol": "Ca",
+      "name": "Calcium",
+      "chemicalGroupBlock": "Alkaline Earth Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 21,
+      "symbol": "Sc",
+      "name": "Scandium",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 22,
+      "symbol": "Ti",
+      "name": "Titanium",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 23,
+      "symbol": "V",
+      "name": "Vanadium",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 24,
+      "symbol": "Cr",
+      "name": "Chromium",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 25,
+      "symbol": "Mn",
+      "name": "Maganese",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 26,
+      "symbol": "Fe",
+      "name": "Iron",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 27,
+      "symbol": "Co",
+      "name": "Cobalt",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 28,
+      "symbol": "Ni",
+      "name": "Nickel",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 29,
+      "symbol": "Cu",
+      "name": "Copper",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 30,
+      "symbol": "Zn",
+      "name": "Zinc",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 31,
+      "symbol": "Ga",
+      "name": "Gallium",
+      "chemicalGroupBlock": "Post-Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 32,
+      "symbol": "Ge",
+      "name": "Germanium",
+      "chemicalGroupBlock": "Metalloid",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 33,
+      "symbol": "As",
+      "name": "Arsenic",
+      "chemicalGroupBlock": "Metalloid",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 34,
+      "symbol": "Se",
+      "name": "Selenium",
+      "chemicalGroupBlock": "Nonmetal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 35,
+      "symbol": "Br",
+      "name": "Bromine",
+      "chemicalGroupBlock": "Halogen",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 36,
+      "symbol": "Kr",
+      "name": "Krypton",
+      "chemicalGroupBlock": "Noble Gas",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 37,
+      "symbol": "Rb",
+      "name": "Rubidium",
+      "chemicalGroupBlock": "Alkali Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 38,
+      "symbol": "Sr",
+      "name": "Strontium",
+      "chemicalGroupBlock": "Alkaline Earth Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 39,
+      "symbol": "Y",
+      "name": "Yttrium",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 40,
+      "symbol": "Zr",
+      "name": "Zirconium",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 41,
+      "symbol": "Nb",
+      "name": "Niobium",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 42,
+      "symbol": "Mo",
+      "name": "Molybdenum",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 43,
+      "symbol": "Tc",
+      "name": "Technetium",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 44,
+      "symbol": "Ru",
+      "name": "Ruthenium",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 45,
+      "symbol": "Rh",
+      "name": "Rhodium",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 46,
+      "symbol": "Pd",
+      "name": "Palladium",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 47,
+      "symbol": "Ag",
+      "name": "Silver",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 48,
+      "symbol": "Cd",
+      "name": "Cadmium",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 49,
+      "symbol": "In",
+      "name": "Indium",
+      "chemicalGroupBlock": "Post-Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 50,
+      "symbol": "Sn",
+      "name": "Tin",
+      "chemicalGroupBlock": "Post-Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 51,
+      "symbol": "Sb",
+      "name": "Antimony",
+      "chemicalGroupBlock": "Metalloid",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 52,
+      "symbol": "Te",
+      "name": "Tellurium",
+      "chemicalGroupBlock": "Metalloid",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 53,
+      "symbol": "I",
+      "name": "Iodine",
+      "chemicalGroupBlock": "Halogen",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 54,
+      "symbol": "Xe",
+      "name": "Xenon",
+      "chemicalGroupBlock": "Noble Gas",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 55,
+      "symbol": "Cs",
+      "name": "Cesium",
+      "chemicalGroupBlock": "Alkali Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 56,
+      "symbol": "Ba",
+      "name": "Barium",
+      "chemicalGroupBlock": "Alkaline Earth Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 57,
+      "symbol": "La",
+      "name": "Lanthanum",
+      "chemicalGroupBlock": "Lanthanide",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 58,
+      "symbol": "Ce",
+      "name": "Cerium",
+      "chemicalGroupBlock": "Lanthanide",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 59,
+      "symbol": "Pr",
+      "name": "Praseodymium",
+      "chemicalGroupBlock": "Lanthanide",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 60,
+      "symbol": "Nd",
+      "name": "Neodymium",
+      "chemicalGroupBlock": "Lanthanide",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 61,
+      "symbol": "Pm",
+      "name": "Promethium",
+      "chemicalGroupBlock": "Lanthanide",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 62,
+      "symbol": "Sm",
+      "name": "Samarium",
+      "chemicalGroupBlock": "Lanthanide",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 63,
+      "symbol": "Eu",
+      "name": "Europium",
+      "chemicalGroupBlock": "Lanthanide",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 64,
+      "symbol": "Gd",
+      "name": "Gadolinium",
+      "chemicalGroupBlock": "Lanthanide",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 65,
+      "symbol": "Tb",
+      "name": "Terbium",
+      "chemicalGroupBlock": "Lanthanide",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 66,
+      "symbol": "Dy",
+      "name": "Dysprosium",
+      "chemicalGroupBlock": "Lanthanide",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 67,
+      "symbol": "Ho",
+      "name": "Holmium",
+      "chemicalGroupBlock": "Lanthanide",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 68,
+      "symbol": "Er",
+      "name": "Erbium",
+      "chemicalGroupBlock": "Lanthanide",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 69,
+      "symbol": "Tm",
+      "name": "Thulium",
+      "chemicalGroupBlock": "Lanthanide",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 70,
+      "symbol": "Yb",
+      "name": "Ytterbium",
+      "chemicalGroupBlock": "Lanthanide",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 71,
+      "symbol": "Lu",
+      "name": "Lutetium",
+      "chemicalGroupBlock": "Lanthanide",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 72,
+      "symbol": "Hf",
+      "name": "Hafnium",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 73,
+      "symbol": "Ta",
+      "name": "Tantalum",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 74,
+      "symbol": "W",
+      "name": "Tungsten",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 75,
+      "symbol": "Re",
+      "name": "Rhenium",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 76,
+      "symbol": "Os",
+      "name": "Osmium",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 77,
+      "symbol": "Ir",
+      "name": "Iridium",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 78,
+      "symbol": "Pt",
+      "name": "Platimun",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 79,
+      "symbol": "Au",
+      "name": "Gold",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 80,
+      "symbol": "Hg",
+      "name": "Mercury",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 81,
+      "symbol": "Tl",
+      "name": "Thallium",
+      "chemicalGroupBlock": "Post-Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 82,
+      "symbol": "Pb",
+      "name": "Lead",
+      "chemicalGroupBlock": "Post-Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 83,
+      "symbol": "Bi",
+      "name": "Bismuth",
+      "chemicalGroupBlock": "Post-Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 84,
+      "symbol": "Po",
+      "name": "Pollonium",
+      "chemicalGroupBlock": "Metalloid",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 85,
+      "symbol": "At",
+      "name": "Astatine",
+      "chemicalGroupBlock": "Halogen",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 86,
+      "symbol": "Rn",
+      "name": "Radon",
+      "chemicalGroupBlock": "Noble Gas",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 87,
+      "symbol": "Fr",
+      "name": "Francium",
+      "chemicalGroupBlock": "Alkali Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 88,
+      "symbol": "Ra",
+      "name": "Radium",
+      "chemicalGroupBlock": "Alkaline Earth Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 89,
+      "symbol": "Ac",
+      "name": "Actinium",
+      "chemicalGroupBlock": "Actinide",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 90,
+      "symbol": "Th",
+      "name": "Thorium",
+      "chemicalGroupBlock": "Actinide",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 91,
+      "symbol": "Pa",
+      "name": "Protactinium",
+      "chemicalGroupBlock": "Actinide",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 92,
+      "symbol": "U",
+      "name": "Uranium",
+      "chemicalGroupBlock": "Actinide",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 93,
+      "symbol": "Np",
+      "name": "Neptunium",
+      "chemicalGroupBlock": "Actinide",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 94,
+      "symbol": "Pu",
+      "name": "Plutonium",
+      "chemicalGroupBlock": "Actinide",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 95,
+      "symbol": "Am",
+      "name": "Americium",
+      "chemicalGroupBlock": "Actinide",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 96,
+      "symbol": "Cm",
+      "name": "Curium",
+      "chemicalGroupBlock": "Actinide",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 97,
+      "symbol": "Bk",
+      "name": "Berkelium",
+      "chemicalGroupBlock": "Actinide",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 98,
+      "symbol": "Cf",
+      "name": "Californium",
+      "chemicalGroupBlock": "Actinide",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 99,
+      "symbol": "Es",
+      "name": "Einsteinium",
+      "chemicalGroupBlock": "Actinide",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 100,
+      "symbol": "Fm",
+      "name": "Fermium",
+      "chemicalGroupBlock": "Actinide",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 101,
+      "symbol": "Md",
+      "name": "Mendelevium",
+      "chemicalGroupBlock": "Actinide",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 102,
+      "symbol": "No",
+      "name": "Nobelium",
+      "chemicalGroupBlock": "Actinide",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 103,
+      "symbol": "Lr",
+      "name": "Lawrencium",
+      "chemicalGroupBlock": "Actinide",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 104,
+      "symbol": "Rf",
+      "name": "Rutherfordium",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 105,
+      "symbol": "Db",
+      "name": "Dubnium",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 106,
+      "symbol": "Sg",
+      "name": "Seaborgium",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 107,
+      "symbol": "Bh",
+      "name": "Bohrium",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 108,
+      "symbol": "Hs",
+      "name": "Hassium",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 109,
+      "symbol": "Mt",
+      "name": "Meitnerium",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 110,
+      "symbol": "Ds",
+      "name": "Darmstadium",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 111,
+      "symbol": "Rg",
+      "name": "Roentgenium",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 112,
+      "symbol": "Cn",
+      "name": "Copernicium",
+      "chemicalGroupBlock": "Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 113,
+      "symbol": "Nh",
+      "name": "Nihonium",
+      "chemicalGroupBlock": "Post-Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 114,
+      "symbol": "Fl",
+      "name": "Flrovium",
+      "chemicalGroupBlock": "Post-Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 115,
+      "symbol": "Mc",
+      "name": "Moscovium",
+      "chemicalGroupBlock": "Post-Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 116,
+      "symbol": "Lv",
+      "name": "Livermorium",
+      "chemicalGroupBlock": "Post-Transition Metal",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 117,
+      "symbol": "Ts",
+      "name": "Tennesine",
+      "chemicalGroupBlock": "Halogen",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    },
+    {
+      "number": 118,
+      "symbol": "Og",
+      "name": "Oganesson",
+      "chemicalGroupBlock": "Noble Gas",
+      "standardState": "Gas",
+      "atomicMass": 1,
+      "yearDiscovered": 1
+    }
+  ]
+}

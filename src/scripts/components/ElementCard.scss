@@ -1,0 +1,62 @@
+@import '../../styles/h5p-periodic-table-main.scss';
+
+.h5p-periodic-table-element-card {
+  align-items: center;
+  border: 0;
+  display: flex;
+  flex-direction: column;
+  height: 5em;
+  justify-content: space-around;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+
+  &:hover {
+    cursor: pointer;
+  }
+
+  &.h5p-periodic-table-nonmetal {
+    background: $color-nonmetal;
+  }
+
+  &.h5p-periodic-table-noble-gas {
+    background: $color-noble-gas;
+  }
+
+  &.h5p-periodic-table-alkali-metal {
+    background: $color-alkali-metal;
+  }
+
+  &.h5p-periodic-table-alkaline-earth-metal {
+    background: $color-alkaline-earth-metal;
+  }
+
+  &.h5p-periodic-table-metalloid {
+    background: $color-metalloid;
+  }
+
+  &.h5p-periodic-table-post-transition-metal {
+    background: $color-post-transition-metal;
+  }
+
+  &.h5p-periodic-table-halogen {
+    background: $color-halogen;
+  }
+
+  &.h5p-periodic-table-transition-metal {
+    background: $color-transition-metal;
+  }
+
+  &.h5p-periodic-table-lanthanide {
+    background: $color-lanthanide;
+  }
+
+  &.h5p-periodic-table-actinide {
+    background: $color-actinide;
+  }
+
+  .h5p-periodic-table-element-symbol {
+    font-size: 1.25em;
+    font-weight: bold;
+  }
+}

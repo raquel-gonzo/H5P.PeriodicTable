@@ -1,0 +1,44 @@
+{
+    "colors": [
+        {
+            "chemicalGroupBlock": "Nonmetal",
+            "color": "#fffecd"
+        },
+        {
+            "chemicalGroupBlock": "Alkali Metal",
+            "color": "#ffcdca"
+        },
+        {
+            "chemicalGroupBlock": "Alkaline Earth Metal",
+            "color": "#d2d3ff"
+        },
+        {
+            "chemicalGroupBlock": "Transition Metal",
+            "color": "#c8e0ff"
+        },
+        {
+            "chemicalGroupBlock": "Post-Transition Metal",
+            "color": "#d0fdca"
+        },
+        {
+            "chemicalGroupBlock": "Metalloid",
+            "color": "#dfedc4"
+        },
+        {
+            "chemicalGroupBlock": "Noble Gas",
+            "color": "#ffe3c4"
+        },
+        {
+            "chemicalGroupBlock": "Halogen",
+            "color": "#fffecd"
+        },
+        {
+            "chemicalGroupBlock": "Lanthanide",
+            "color": "#c6feff"
+        },
+        {
+            "chemicalGroupBlock": "Actinide",
+            "color": "#c9fdeb"
+        }
+    ]
+}

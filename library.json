@@ -1,0 +1,25 @@
+{
+  "title": "Periodic Table",
+  "description": "Content type to display information about the periodic table",
+  "majorVersion": 0,
+  "minorVersion": 1,
+  "patchVersion": 0,
+  "runnable": 1,
+  "author": "Breakthrough Technologies",
+  "license": "cr",
+  "machineName": "H5P.PeriodicTable",
+  "embedTypes": [
+    "iframe"
+  ],
+  "preloadedJs": [
+    {
+      "path": "dist/h5p-periodic-table.js"
+    }
+  ],
+  "preloadedCss": [
+    {
+      "path": "dist/h5p-periodic-table.css"
+    }
+  ]
+  
+}
